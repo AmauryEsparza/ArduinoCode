@@ -4,3 +4,6 @@ http://www.instructables.com/id/Arduino-AND-Bluetooth-HC-05-Connecting-easily/
 Remote controlled LED 
 http://www.instructables.com/id/Remotely-Control-LED-using-HC-05-Bluetooth-Arduino/?ALLSTEPS
 
+Serial commands from Android
+http://digitalhacksblog.blogspot.de/2012/05/arduino-to-android-turning-led-on-and.html
+

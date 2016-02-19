@@ -7,3 +7,7 @@ http://www.instructables.com/id/Remotely-Control-LED-using-HC-05-Bluetooth-Ardui
 Serial commands from Android
 http://digitalhacksblog.blogspot.de/2012/05/arduino-to-android-turning-led-on-and.html
 
+Breathalizer
+http://www.danielandrade.net/2010/03/07/building-an-breathalyzer-with-mq-3-and-arduino/
+http://www.instructables.com/id/Arduino-Breathalyzer/
+http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor(MQ3)
